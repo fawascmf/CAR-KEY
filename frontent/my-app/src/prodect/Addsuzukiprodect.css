@@ -1,0 +1,13 @@
+.secondmain{
+    float: left;
+    padding: 0;
+    margin-left: 24%;
+    margin-top: 1rem;
+    border: 0.1px solid black;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 1rem;
+    width: 700px;
+}
+.mainsideprop{
+    background-color: rgb(255, 255, 255);
+}

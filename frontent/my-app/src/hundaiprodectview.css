@@ -1,0 +1,22 @@
+.zoommain{
+    width: auto;
+    height: auto;
+    padding: 0 10%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+}
+.zoomdiv{
+    padding: 2rem 7% 1rem 7%;
+    width: auto;
+    
+    
+    
+
+}
+.scnddiv{
+    float: right;
+    max-width: 43%;
+    margin-left: 50%;
+    margin-top: -37%;
+}
